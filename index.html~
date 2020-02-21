@@ -83,27 +83,28 @@ display: inline-block
     <div class="title">
       <h2>Welcome</h2>
     </div>
-    <p>I am Data Scientist and Quantitative Researcher. My research interests lie in the intersection of mathematical 
-analysis and data-driven application. I have experience for instance on macroscopic
- modeling such as stochastic partial differential equations - from 
-      theoretical, numerical and statistical viewpoint. </p>
-    <p>
-      Before working in the financial industry, I have been postdoctoral researcher in the Stochastic Finance group at <a href="https://www.ethz.ch/de.html">ETH Zurich</a> working with Martin Larsson and Josef Teichmann. Previously I was research assistent 
+    <p>From May 2016 until May 2019, I have been postdoctoral researcher in the Stochastic Finance group at <a href="https://www.ethz.ch/de.html">ETH Zurich</a> working with Martin Larsson and Josef Teichmann. Previously I was research assistent 
       and doctoral student of Martin Keller-Ressel at
       <a href="https://tu-dresden.de/mn/math/stochastik">TU Dresden</a>. Until 
       October 2014, I was research fellow at
       <a href="https://www.mathematik.hu-berlin.de/en/rtg1845">Research Training Group 
 	1845 "Stochastic Analysis with Applications in Biology, Finance and 
-	Physics"</a> in Berlin.</p>
+	Physics"</a> at TU Berlin.</p>
 		
+    <p>My research interests lie in the intersection of mathematical 
+analysis and data-driven application. My current focus is on macroscopic
+ modeling such as stochastic partial differential equations - from 
+theoretical, numerical and statistical viewpoint. In recent work we aim 
+to get a better understanding of electronic order book driven financial 
+markets and of the corresponding mathematical systems. </p>
     
     <p>
       I was coordinator for the course <a href="https://metaphor.ethz.ch/x/2018/hs/401-0603-00L/">Stochastik</a> (autumn semester 2018) at ETHZ. 
     </p>
     
-    <p>I also have been organzier of the <a href="https://www.math.ethz.ch/imsf/courses/practitioner-seminar.html">ETH Practitioner Seminar in Financial and Insurance Mathematics</a>.
+    <p>I was organzier of the <a href="https://www.math.ethz.ch/imsf/courses/practitioner-seminar.html">ETH Practitioner Seminar in Financial and Insurance Mathematics</a>.
  This is a series of seminars which we started in September 2016 to 
-establish frequent communication between academia and industry.</p>
+establish frequent communication between macademia and industry.</p>
   </div>
 </div>
 <div class="wrapper">
@@ -147,36 +148,36 @@ establish frequent communication between academia and industry.</p>
 			<br>
 			<span>
 
-<!-- ETH Zurich<br> -->
-<!-- Group 3<br> -->
-<!-- Department of Mathematics<br> -->
-<!-- HG G 50.2<br> -->
-<!-- Rämistrasse 101<br> -->
-<!-- 8092 Zurich<br> -->
-<!-- Switzerland<br> -->
-<!-- </span> -->
-<!-- 		</div> -->
-<!-- 		<div class="fbox1"> -->
-<!-- 			<span> -->
-<!-- 				<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 				Telephone: <a class="tel" href="tel:+41446322293">+41 44 632  -->
-<!-- 			2293</a></span><br> -->
-<!-- 		</div> -->
-<!-- 		<div class="fbox1" style="text-align: right"> -->
-<!-- 			<span><br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			<br> -->
-<!-- 			marvin.mueller (at) math.ethz.ch<br> -->
+ETH Zurich<br>
+Group 3<br>
+Department of Mathematics<br>
+HG G 50.2<br>
+Rämistrasse 101<br>
+8092 Zurich<br>
+Switzerland<br>
+</span>
+		</div>
+		<div class="fbox1">
+			<span>
+				<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+				Telephone: <a class="tel" href="tel:+41446322293">+41 44 632 
+			2293</a></span><br>
+		</div>
+		<div class="fbox1" style="text-align: right">
+			<span><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			marvin.mueller (at) math.ethz.ch<br>
 			</span>
 		&nbsp;</div>
 	</div>
